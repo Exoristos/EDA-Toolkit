@@ -1,0 +1,31 @@
+id,yas,cinsiyet,sehir,notlar
+1,na,Hayır, Ankara,  
+2,-,1, Istanbul ,  
+3,,true, Ankara,yok
+4,, Evet ,,yok
+5,-,hayır , Istanbul ,yok
+6,n/a, evet,,yok
+7,NA,true,İzmir, test 
+8,54,, Ankara, test 
+9,null,e,  Bursa  , test 
+10,n/a,NA,,  
+11,na, Evet ,  Bursa  ,yok
+12,yok,Hayır,, test 
+13,71, evet,NA, test 
+14,-,NA,İzmir,
+15,NULL, Evet ,İzmir,
+16,-,1,Antalya,yok
+17,yok,0, Istanbul ,  
+18,null,false, Istanbul ,yok
+19,n/a,true,NA,  
+20,yok,e,NA, test 
+21,,NA,, test 
+22,NA,,İzmir,
+23,yok, evet,Antalya, test 
+24, 49  ,h,NA, test 
+25, 33  ,false, Istanbul ,  
+26,64,true,NA,
+27,N/A,e,Antalya,yok
+28,na,NA,İzmir,yok
+29,yok,0, Istanbul ,
+30, 32  , evet,Antalya,

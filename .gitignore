@@ -1,0 +1,42 @@
+# Deepwork progress (local session state)
+.slim/deepwork/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+build_venv/
+venv/
+.venv/
+
+# PyInstaller
+*.spec.bak
+.spec/
+build/
+
+# Tool outputs
+eda_reports/
+*.log
+
+# Test / editor / OS state
+.pytest_cache/
+.coverage
+htmlcov/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# lokal notlar ve ai arac klasorleri repoya girmesin
+interview/
+.cursor/
+.claude/
+.cursorrules
+CLAUDE.md
+.mcp.json

@@ -1,0 +1,29 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "eda_toolkit"
+version = "0.1.0"
+description = "Portable Python EDA pipeline for bank data analysis"
+requires-python = ">=3.10"
+dependencies = [
+    "pandas",
+    "numpy",
+    "scikit-learn",
+    "scipy",
+    "plotly",
+    "openpyxl",
+    "reportlab",
+    "python-stdnum",
+    "click",
+]
+
+[project.scripts]
+eda = "eda_toolkit.cli:main"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]

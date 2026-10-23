@@ -1,0 +1,41 @@
+id,ad,yas,evli,maas,sehir,skor,bos_kolon
+1, Ali ,NA,true,82816.22,Ankara,781,NA
+2,NA,yok,h,124434.93,NA,393,NA
+3,  ,60,NA,91257.74,NA,807,
+4, Ali ,47,e,7774.61,Bursa,670,NA
+5,Ayşe  ,66,hayır ,4753.07,NA,424,NA
+6,, ,e,8598.23,İstanbul,,NA
+7,Mehmet,NA,true,6849.35,NA,549,
+8,,yok,,13598.53,NA,,NA
+9, Ali ,NA,NA,3700.04,,640,NA
+10,Ayşe  , ,,3510.09,NA,344,NA
+11,-, ,h,6686.04,NA,402,NA
+12,Mehmet, , evet,16817.32,NA,,
+13,-,-,NA,9490.02,,532,NA
+14,  Veli,66,h,6690.73,,683,
+15,-, ,hayır ,9725.69,Ankara,,
+16,Ayşe  ,NA,h,4313.0,,606,NA
+17,NA,NA,hayır ,6697.62,,602,
+18,-,35,true,11715.41,,524,NA
+19,Mehmet,58,,5700.39,Bursa,673,
+20,NA,-,hayır ,6141.69,,468,
+21,Ayşe  ,NA,,14603.23,İstanbul,444,
+22,-,yok,e,,NA,314,
+23,  ,NA,true,10166.95,Ankara,782,
+24,  , ,,,NA,609,
+25, Ali ,NA,h,,Ankara,850,NA
+26,-, ,h,19804.39,,333,
+27,Ayşe  ,NA, evet,2020.08,,362,
+28,  Veli,-, evet,11638.38,İstanbul,351,
+29,Mehmet,yok,hayır ,,Bursa,512,
+30,, ,NA,5322.12,,478,
+31,Mehmet,NA,NA,8892.15,,353,NA
+32,  Veli,65,h,5713.12,NA,815,NA
+33,NA,47, evet,15109.59,İstanbul,802,NA
+34,  Veli,yok,hayır ,,,632,NA
+35,NA,yok,true,11391.99,Bursa,520,
+36,-,-,h,3916.39,,,NA
+37,Ayşe  ,22,NA,,NA,398,
+38,Mehmet,53,true,9822.26,NA,,
+39,-,64,e,5643.24,Ankara,458,
+40,  Veli,yok,e,,,531,

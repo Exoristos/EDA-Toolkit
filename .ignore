@@ -1,0 +1,4 @@
+# Make deepwork files readable to OpenCode tooling
+!.slim/
+!.slim/deepwork/
+!.slim/deepwork/**
